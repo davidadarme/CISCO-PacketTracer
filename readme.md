@@ -153,30 +153,5 @@ Se puede administrar el router 2811 usando el PC conectado directamente a la con
 
 4) PDU simple: envía un paquete ICMP por defecto
 
-
 ### CONCLUSIÓN
 Packet Tracer es una herramienta con mucha potencia tanto didáctica como técnica que nos brinda la posibilidad de experimentar en vivo, cómo funcionan las tecnologías en redes de datos y realizar actividades de forma ilustrada para suplir nuestras necesidades.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
